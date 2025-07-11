@@ -91,6 +91,6 @@ https://github.com/user-attachments/assets/08e5964e-31ae-4607-b78b-c04b0ea29bec
 
 ## Acknowledgement
 
-I would like to thank my friend and a mathematician Dennis Elbrächter who pointed out that my original problem was related Thomson problem, which was the impulse to create this repository.
+I would like to thank my friend, a mathematician, Dennis Elbrächter who pointed out that my original problem was related to the Thomson problem, which was the impulse to create this repository.
 
 
