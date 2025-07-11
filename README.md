@@ -32,7 +32,7 @@ For instance, a unit could represent:
 This solver is intended as an exploratory and educational tool for studying the Thomson problem and its generalizations. I also used it as an opportunity to get more familiar with scripting the movie renders in ChimeraX. The following limitations and caveats apply:
 
 * **No claim of superiority:** This implementation does not claim to outperform or improve upon existing gradient-based solvers for the classical Thomson problem.
-* **Novelty not guaranteed:** While this solver may be among the first to address the variant involving rigid multi-particle units, almost no literature serach has been conducted yet to confirm its novelty. Check https://arxiv.org/html/2506.08398v1 for most recent article we found on this topic.
+* **Novelty not guaranteed:** While this solver may be among the first to address the variant involving rigid multi-particle units, almost no literature serach has been conducted yet to confirm its novelty. Check https://arxiv.org/abs/2506.08398 for most recent article we found on this topic.
 * **No guarantee of global optimality:** The solver performs local gradient-based optimization. It may find locally optimal configurations that could be globally optimal, but this is not guaranteed. In fact, identifying global optima in this setting relates to [Smale’s 7th unsolved mathematical problem](https://en.wikipedia.org/wiki/Smale%27s_problems).
 * **Sensitivity to hyperparameters:** The outcome depends on hyperparameters such as learning rate, initialization, and optimizer choice. Different settings can lead to different local optima. However, random seeds are consistently set to ensure that results are reproducible under identical configurations.
 
