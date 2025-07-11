@@ -14,7 +14,7 @@ Instead of treating each particle as an independent point on the unit sphere, th
 * **Energy Minimization:** The solver minimizes a repulsion-based energy function across all particles on the sphere.
 * **Support for Classical Thomson Problem:** The classical case is simply M = 1, where each unit is a single particle.
 * **Generates a Trajectory File:** Outputs a `.pdb` file logging the transformed vectors and energy after each iteration.
-* **Outputs Found Rotation Matrices:** The final rotation matrices for each unit are stored in both ZYZ intrinsic and XYZ extrinsic formats.
+* **Outputs Found Rotations:** The final rotations for each unit are stored as Euler angles in both ZYZ intrinsic and XYZ extrinsic formats.
 * **Renders a ChimeraX Video Visualization:** Outputs an `.mp4` video visualizing the initialization, optimization, and the end result.
 
 
@@ -31,7 +31,8 @@ For instance, a unit could represent:
 
 This solver is intended as an exploratory and educational tool for studying the Thomson problem and its generalizations. I also used it as an opportunity to get more familiar with scripting the movie renders in ChimeraX. The following limitations and caveats apply:
 
-* **No claim of superiority:** This implementation does not claim to outperform or improve upon existing gradient-based solvers for the classical Thomson problem.
+* **No claim of superiority:** \ 
+This implementation does not claim to outperform or improve upon existing gradient-based solvers for the classical Thomson problem.
 * **Novelty not guaranteed:** While this solver may be among the first to address the variant involving rigid multi-particle units, almost no literature serach has been conducted yet to confirm its novelty. Check https://arxiv.org/abs/2506.08398 for most recent article we found on this topic.
 * **No guarantee of global optimality:** The solver performs local gradient-based optimization. It may find locally optimal configurations that could be globally optimal, but this is not guaranteed. In fact, identifying global optima in this setting relates to [Smale’s 7th unsolved mathematical problem](https://en.wikipedia.org/wiki/Smale%27s_problems).
 * **Sensitivity to hyperparameters:** The outcome depends on hyperparameters such as learning rate, initialization, and optimizer choice. Different settings can lead to different local optima. However, random seeds are consistently set to ensure that results are reproducible under identical configurations.
@@ -67,6 +68,7 @@ matplotlib===3.10.3
 torch==2.71
 pandas==2.3.0
 numpy==2.3.1
+UCSF ChimeraX v1.9  # If you want to render the videos
 ```
 
 
