@@ -94,6 +94,8 @@ outputs/M=1_N=32_TL=412.261260986_Seed=0_YYYY-MM-DD_HH:MM:SS.mp4  # Rendered vid
 
 https://github.com/user-attachments/assets/efcdde35-6ced-4e8c-9440-75b9855b0afe
 
+https://github.com/user-attachments/assets/2eb10f5f-25e8-4590-8f76-ddb4c3191318
+
 https://github.com/user-attachments/assets/b725fcde-c860-4d25-8e36-b1f16b956fbc
 
 https://github.com/user-attachments/assets/e0dd4548-9167-48b2-bf29-e53f6e0f0cbb
