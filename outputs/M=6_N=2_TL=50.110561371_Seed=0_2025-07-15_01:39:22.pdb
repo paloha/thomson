@@ -1,0 +1,135 @@
+MODEL          0
+REMARK log loss: -2.9166564941
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.04  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.03  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.01  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.04  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.03  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.01  0.00           C  
+HETATM    7  CXP VEC A   2       0.999  -0.032   0.015  0.04  0.00           C  
+HETATM    8  CYP VEC A   2       0.032   0.999   0.002  0.03  0.00           C  
+HETATM    9  CZP VEC A   2      -0.015  -0.001   1.000  0.01  0.00           C  
+HETATM   10  CXN VEC A   2      -0.999   0.032  -0.015  0.04  0.00           C  
+HETATM   11  CYN VEC A   2      -0.032  -0.999  -0.002  0.03  0.00           C  
+HETATM   12  CZN VEC A   2       0.015   0.001  -1.000  0.01  0.00           C  
+ENDMDL
+MODEL         30
+REMARK log loss: -20.7012100220
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.74  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.70  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.55  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.74  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.70  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.55  0.00           C  
+HETATM    7  CXP VEC A   2       0.474  -0.757   0.449  0.70  0.00           C  
+HETATM    8  CYP VEC A   2       0.729   0.624   0.282  0.74  0.00           C  
+HETATM    9  CZP VEC A   2      -0.493   0.194   0.848  0.55  0.00           C  
+HETATM   10  CXN VEC A   2      -0.474   0.757  -0.449  0.70  0.00           C  
+HETATM   11  CYN VEC A   2      -0.729  -0.624  -0.282  0.74  0.00           C  
+HETATM   12  CZN VEC A   2       0.493  -0.194  -0.848  0.55  0.00           C  
+ENDMDL
+MODEL         60
+REMARK log loss: -21.0207481384
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.84  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.78  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.70  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.84  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.78  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.70  0.00           C  
+HETATM    7  CXP VEC A   2       0.451  -0.688   0.569  0.79  0.00           C  
+HETATM    8  CYP VEC A   2       0.643   0.692   0.327  0.78  0.00           C  
+HETATM    9  CZP VEC A   2      -0.619   0.219   0.754  0.70  0.00           C  
+HETATM   10  CXN VEC A   2      -0.451   0.688  -0.569  0.79  0.00           C  
+HETATM   11  CYN VEC A   2      -0.643  -0.692  -0.327  0.78  0.00           C  
+HETATM   12  CZN VEC A   2       0.619  -0.219  -0.754  0.70  0.00           C  
+ENDMDL
+MODEL         90
+REMARK log loss: -21.0559806824
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.82  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.77  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.76  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.82  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.77  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.76  0.00           C  
+HETATM    7  CXP VEC A   2       0.420  -0.671   0.611  0.81  0.00           C  
+HETATM    8  CYP VEC A   2       0.621   0.703   0.346  0.77  0.00           C  
+HETATM    9  CZP VEC A   2      -0.662   0.234   0.712  0.76  0.00           C  
+HETATM   10  CXN VEC A   2      -0.420   0.671  -0.611  0.81  0.00           C  
+HETATM   11  CYN VEC A   2      -0.621  -0.703  -0.346  0.77  0.00           C  
+HETATM   12  CZN VEC A   2       0.662  -0.234  -0.712  0.76  0.00           C  
+ENDMDL
+MODEL        120
+REMARK log loss: -21.0646610260
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.81  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.79  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.78  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.81  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.79  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.78  0.00           C  
+HETATM    7  CXP VEC A   2       0.385  -0.681   0.622  0.80  0.00           C  
+HETATM    8  CYP VEC A   2       0.631   0.687   0.361  0.79  0.00           C  
+HETATM    9  CZP VEC A   2      -0.674   0.253   0.694  0.78  0.00           C  
+HETATM   10  CXN VEC A   2      -0.385   0.681  -0.622  0.80  0.00           C  
+HETATM   11  CYN VEC A   2      -0.631  -0.687  -0.361  0.79  0.00           C  
+HETATM   12  CZN VEC A   2       0.674  -0.253  -0.694  0.78  0.00           C  
+ENDMDL
+MODEL        150
+REMARK log loss: -21.0674934387
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.80  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.80  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.80  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.80  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.80  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.80  0.00           C  
+HETATM    7  CXP VEC A   2       0.367  -0.684   0.631  0.80  0.00           C  
+HETATM    8  CYP VEC A   2       0.636   0.680   0.366  0.80  0.00           C  
+HETATM    9  CZP VEC A   2      -0.679   0.267   0.684  0.80  0.00           C  
+HETATM   10  CXN VEC A   2      -0.367   0.684  -0.631  0.80  0.00           C  
+HETATM   11  CYN VEC A   2      -0.636  -0.680  -0.366  0.80  0.00           C  
+HETATM   12  CZN VEC A   2       0.679  -0.267  -0.684  0.80  0.00           C  
+ENDMDL
+MODEL        180
+REMARK log loss: -21.0689945221
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.80  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.80  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.80  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.80  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.80  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.80  0.00           C  
+HETATM    7  CXP VEC A   2       0.357  -0.683   0.637  0.80  0.00           C  
+HETATM    8  CYP VEC A   2       0.640   0.676   0.366  0.81  0.00           C  
+HETATM    9  CZP VEC A   2      -0.681   0.277   0.678  0.80  0.00           C  
+HETATM   10  CXN VEC A   2      -0.357   0.683  -0.637  0.80  0.00           C  
+HETATM   11  CYN VEC A   2      -0.640  -0.676  -0.366  0.81  0.00           C  
+HETATM   12  CZN VEC A   2       0.681  -0.277  -0.678  0.80  0.00           C  
+ENDMDL
+MODEL        210
+REMARK log loss: -21.0701065063
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.80  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.80  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.81  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.80  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.80  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.81  0.00           C  
+HETATM    7  CXP VEC A   2       0.350  -0.682   0.642  0.80  0.00           C  
+HETATM    8  CYP VEC A   2       0.644   0.673   0.364  0.81  0.00           C  
+HETATM    9  CZP VEC A   2      -0.680   0.287   0.674  0.80  0.00           C  
+HETATM   10  CXN VEC A   2      -0.350   0.682  -0.642  0.80  0.00           C  
+HETATM   11  CYN VEC A   2      -0.644  -0.673  -0.364  0.81  0.00           C  
+HETATM   12  CZN VEC A   2       0.680  -0.287  -0.674  0.80  0.00           C  
+ENDMDL
+MODEL        697
+REMARK log loss: -21.0732326508
+HETATM    1  CXP VEC A   1       1.000   0.000   0.000  0.82  0.00           C  
+HETATM    2  CYP VEC A   1       0.000   1.000   0.000  0.82  0.00           C  
+HETATM    3  CZP VEC A   1       0.000   0.000   1.000  0.82  0.00           C  
+HETATM    4  CXN VEC A   1      -1.000   0.000   0.000  0.82  0.00           C  
+HETATM    5  CYN VEC A   1       0.000  -1.000   0.000  0.82  0.00           C  
+HETATM    6  CZN VEC A   1       0.000   0.000  -1.000  0.82  0.00           C  
+HETATM    7  CXP VEC A   2       0.333  -0.667   0.667  0.82  0.00           C  
+HETATM    8  CYP VEC A   2       0.667   0.667   0.334  0.82  0.00           C  
+HETATM    9  CZP VEC A   2      -0.667   0.333   0.667  0.82  0.00           C  
+HETATM   10  CXN VEC A   2      -0.333   0.667  -0.667  0.82  0.00           C  
+HETATM   11  CYN VEC A   2      -0.667  -0.667  -0.334  0.82  0.00           C  
+HETATM   12  CZN VEC A   2       0.667  -0.333  -0.667  0.82  0.00           C  
+ENDMDL

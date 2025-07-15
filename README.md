@@ -53,7 +53,10 @@ cd thomson
 python3 -m virtualenv .venv
 source .venv/bin/activate
 
-# Install dependencies (this is a freeze of a working environment for CPU)
+# Install PyTorch the way you prefer it (visit pytorch.org to see options)
+pip3 install torch --index-url https://download.pytorch.org/whl/cpu  # E.g. only CPU version
+
+# Install rest of the dependencies
 pip3 install -r requirements.txt
 
 # In case you plan to use video rendering, make sure to have UCSF ChimeraX program installed and available from commandline
@@ -63,9 +66,9 @@ which chimerax
 
 List of dependencies if you want to make your own environment:
 ```
+torch==2.71
 eulerangles==1.0.2
 matplotlib===3.10.3
-torch==2.71
 pandas==2.3.0
 numpy==2.3.1
 UCSF ChimeraX v1.9  # If you want to render the videos
@@ -89,7 +92,11 @@ outputs/M=1_N=32_TL=412.261260986_Seed=0_YYYY-MM-DD_HH:MM:SS.pdb  # File openabl
 outputs/M=1_N=32_TL=412.261260986_Seed=0_YYYY-MM-DD_HH:MM:SS.mp4  # Rendered video
 ```
 
-https://github.com/user-attachments/assets/08e5964e-31ae-4607-b78b-c04b0ea29bec
+https://github.com/user-attachments/assets/efcdde35-6ced-4e8c-9440-75b9855b0afe
+
+https://github.com/user-attachments/assets/b725fcde-c860-4d25-8e36-b1f16b956fbc
+
+https://github.com/user-attachments/assets/e0dd4548-9167-48b2-bf29-e53f6e0f0cbb
 
 ## Acknowledgement
 
